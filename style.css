@@ -1,0 +1,21 @@
+.success, .err{
+    color: white;
+    padding: 10px;
+    margin: 5px 0px 15px 0px;
+
+}
+
+.success{
+    background-color: green;
+}
+
+.err{
+    background-color: red   ;
+}
+
+
+#msg{
+
+    height: 70px;
+    margin-top: 30px !important;
+}
